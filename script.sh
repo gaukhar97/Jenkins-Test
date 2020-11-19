@@ -1,2 +1,2 @@
 #!bin/bash
-echo "This is gaukhars first script v1"
+echo "This is gaukhars first script v2"
